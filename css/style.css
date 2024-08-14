@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui;
+  background-color: aliceblue;
+}
+
+.demo {
+  padding: 30px 80px;
+  background-color: #333;
+  text-align: center;
+}
+.demo h1 {
+  color: red;
+}
+.demo p {
+  color: orange;
+}
+.demo a {
+  color: green;
+  text-decoration: none;
+  font-weight: 700;
+}/*# sourceMappingURL=style.css.map */

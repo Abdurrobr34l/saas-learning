@@ -1,0 +1,28 @@
+$primary-clr: red;
+$secondary-clr: orange;
+$tertiary-clr: green;
+
+body {
+  font-family: system-ui;
+  background-color: aliceblue;
+}
+
+.demo {
+  padding: 30px 80px;
+  background-color: #333;
+  text-align: center;
+
+  h1 {
+    color: $primary-clr;
+  }
+
+  p {
+    color: $secondary-clr;
+  }
+
+  a {
+    color: $tertiary-clr;
+    text-decoration: none;
+    font-weight: 700;
+  }
+}
